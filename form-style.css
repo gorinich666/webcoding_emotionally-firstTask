@@ -41,5 +41,5 @@
 }
 
 .form-block > input:focus {
-    background: red;
+    background: #ffe;
 }
