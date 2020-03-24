@@ -35,3 +35,7 @@
     padding: 2%;
     margin-top: 15px;
 }
+
+.submit-button:hover {
+    background: blue;
+}
