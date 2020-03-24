@@ -40,6 +40,6 @@
     background: blue;
 }
 
-.form-block > input:focus {
+#firstName:focus {
     background: #ffe;
 }
