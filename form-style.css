@@ -40,7 +40,7 @@
     background: blue;
 }
 
-input:focus {
+#firstName:focus {
     background: red;
     border: 1px solid red;
 }
