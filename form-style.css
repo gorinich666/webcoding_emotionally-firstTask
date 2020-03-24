@@ -39,3 +39,7 @@
 .submit-button:hover {
     background: blue;
 }
+
+.form-block > input:focus {
+    background: red;
+}
