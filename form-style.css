@@ -41,5 +41,5 @@
 }
 
 input:focus {
-    background: #ffe;
+    background: red;
 }
